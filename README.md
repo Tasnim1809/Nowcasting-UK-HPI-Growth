@@ -40,9 +40,6 @@ This file contains another robustness check to account for different data versio
 **09. TFT- Final.ipynb** 
 This file implements a deep learning model called Temporal Fusion Transformer as an additional robustness check.
 
-**10. LSTM- Final.ipynb** 
-This file implements a LSTM-based deep learning model for robustness check.
-
 # MODELS IMPLEMENTED
 Traditional benchmark models:
 1. ARIMA
@@ -54,7 +51,7 @@ Machine Learning models:
 3. XGBoost
 4. Random Forest
 # ADDITIONAL NOTES
-1. The notebooks have been designed to be executed sequentially from 01 to 10.
+1. The notebooks have been designed to be executed sequentially from 01 to 09.
 2. Some of the data extraction steps, particularly GDELT sentiment index and model implementation such as XGBoost and Random Forest are quite time-consuming to run.
 
 # AUTHOR
